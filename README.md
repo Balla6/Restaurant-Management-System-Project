@@ -1,25 +1,37 @@
-# Restaurant Management System
+# Restaurant Management Sysytem Project
 
-This project is a Python-based restaurant management system that enables administrators to manage the menu and orders while allowing customers to browse the menu, place orders, and modify them.
+## **Project Overview**
+This project simulates an interactive restaurant ordering system. Users can browse menu categories like appetizers, entrees, beverages, and desserts, add items to their order, modify quantities, apply discounts, and choose delivery options. The system calculates the total, including any applied discounts, tax, and tip, providing a detailed summary at checkout.
 
-## Features
-- **Admin Menu:**
-  - Add, update, and delete menu items.
-  - View all menu items and orders.
-  - Reset the database or drop individual tables.
-- **Customer Features:**
-  - Browse menu items by category.
-  - Start and modify orders.
-  - Calculate totals with tax, discounts, and delivery fees.
-- **Database:**
-  - Uses SQLite for storing menu items and orders.
-  - Automatically updates order totals and timestamps.
+---
 
-## Technologies Used
-- Python
-- SQLite
+## **Features**
+- **Order Modifications**: Easily add, remove, or change item quantities.
+- **Discounts**: Apply percentage-based or fixed-amount discounts.
+- **Delivery Options**: Choose between dine-in and delivery, with delivery charges calculated in the total.
+- **Order Summary**: Provides an itemized summary, including prices, discounts, tax, and tip.
+- **Coupon Support**: Users can apply coupons for additional discounts.
+- **Admin Panel**:
+  - Add, update, or delete menu items.
+  - View or delete orders.
+  - Reset the menu and orders database.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Balla6/restaurant-management-system-project.git
+---
+
+## **Video Demonstration**
+Here’s a preview of the project in action. Watch the video below to see how the ordering system works from start to finish.
+
+[![Watch Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+---
+
+## **Technologies Used**
+- **Python**: Core language for logic and calculations.
+- **SQLite**: Lightweight database for storing menu items and orders.
+- **GitHub Codespaces**: Interactive cloud environment for running and modifying the project.
+- **Jupyter Notebook**: For exploring and running the project interactively.
+- **Markdown**: For documentation within the notebook and README file.
+
+---
+
+## **Project Structure**
