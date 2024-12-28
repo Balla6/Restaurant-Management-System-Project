@@ -1,4 +1,4 @@
-# Restaurant Management Sysytem Project
+# Restaurant Management Sysytem 
 
 ## **Project Overview**
 This project simulates an interactive restaurant ordering system. Users can browse menu categories like appetizers, entrees, beverages, and desserts, add items to their order, modify quantities, apply discounts, and choose delivery options. The system calculates the total, including any applied discounts, tax, and tip, providing a detailed summary at checkout.
