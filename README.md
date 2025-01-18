@@ -28,10 +28,8 @@ Here’s a preview of the project in action. Watch the video below to see how th
 ## **Technologies Used**
 - **Python**: Core language for logic and calculations.
 - **SQLite**: Lightweight database for storing menu items and orders.
-- **GitHub Codespaces**: Interactive cloud environment for running and modifying the project.
 - **Jupyter Notebook**: For exploring and running the project interactively.
 - **Markdown**: For documentation within the notebook and README file.
 
 ---
 
-## **Project Structure**
